@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.header-part {
+    background-image: url(images/death-note.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 90%;
+}
+
+.anime-logo {
+    height: 100px;
+    width: 100px;
+}
+
+.logo-heading {
+    color: chartreuse;
+}
+
+.watch-now {
+    text-align: center;
+    text-decoration: none;
+    color: rgb(46, 56, 139);
+    background-image: linear-gradient(orange, salmon);
+    padding: 15px 25px;
+    border-radius: 7px;
+    font-weight: 600;
+    margin-top: 30px;
+
+}
+
+.logo-heading h1 {
+    color: darkorange;
+    font-size: 20px;
+}
+
+.list {
+    list-style: none;
+    margin-right: 60px;
+    display: flex;
+    padding: 10px;
+    color: gold;
+
+}
+
+.list1 {
+    margin-left: 10px;
+    margin-right: 70px;
+}
+
+.list2 {
+    margin-left: 10px;
+    margin-right: 70px;
+}
+
+.list3 {
+    margin-left: 10px;
+    margin-right: 70px;
+}
+
+
+p {
+    color: cyan;
+    margin-right: 60%;
+}
